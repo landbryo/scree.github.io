@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://jekyll.scree.it" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # github_repo: jekyll # the GitHub repo name for your project
 github_username: landbryo
 
@@ -31,7 +31,7 @@ social_username: landonotis
 
 # Set theme color here
 # Choose from: black (default), blue, gray, magenta, orange, red, white, and yellow.
-theme_color: black
+theme_color: red
 
 # Build settings
 markdown: kramdown
