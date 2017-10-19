@@ -1,0 +1,7 @@
+{% for item in site.portfolio %}
+<a href="{{ item.url }}"><img src="{{ item.thumbnail }}" /></a>
+
+<h2><a href="{{ item.url }}">{{ item.title }}</a></h2>
+
+<p>{{ item.excerpt }}</p>
+{% endfor %}
