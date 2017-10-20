@@ -475,6 +475,17 @@ code {
     text-decoration: none; }
 
 /* Type forms */
+.btn,
+.button {
+  padding: 10px 16px;
+  font-size: 18px;
+  line-height: 1.3333333;
+  border-radius: 6px;
+  background: #E74727;
+  border: none;
+  box-shadow: 0px 2px 2px #ccc;
+  color: #fff; }
+
 .portfolio-list .item {
   max-width: 50%;
   margin-bottom: 30px;

@@ -1,4 +1,16 @@
 /* Type forms */
+.btn,
+.button {
+	padding: 10px 16px;
+	font-size: 18px;
+	line-height: 1.3333333;
+	border-radius: 6px;
+	background: $color-background;
+	border: none;
+	box-shadow: 0px 2px 2px #ccc;
+	color: $color-title;
+}
+	
 .portfolio-list {
     .item {
         max-width: 50%;
