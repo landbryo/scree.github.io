@@ -1,7 +1,11 @@
-{% for item in site.portfolio %}
-<a href="{{ item.url }}"><img src="{{ item.thumbnail }}" /></a>
+<div class="portfolio-list">
+    {% for item in site.portfolio %}
+    <div class="item">
+        <h2><a href="{{ item.url }}">{{ item.title }}</a></h2>
+        
+        <a href="{{ item.url }}"><img src="{{ item.thumbnail }}" /></a>
 
-<h2><a href="{{ item.url }}">{{ item.title }}</a></h2>
-
-<p>{{ item.excerpt }}</p>
-{% endfor %}
+        <p>{{ item.excerpt }}</p>
+    </div>
+    {% endfor %}
+</div>

@@ -1,0 +1,14 @@
+/* Type forms */
+.portfolio-list {
+    .item {
+        max-width: 50%;
+        margin-bottom: 30px;
+        padding-bottom: 20px;
+        border-bottom: 2px solid $color-background;;
+    }
+    
+    img {
+        max-width: 100%;
+        height: auto;
+    }
+}
