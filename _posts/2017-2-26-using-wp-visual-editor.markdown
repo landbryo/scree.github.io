@@ -3,6 +3,7 @@ layout: post
 title:  "Using the WordPress Visual Editor"
 date:   2017-2-26 12:58:21 -0700
 categories: blog wordpress
+comments: true
 ---
 The visual editor provides a semi-WYSIWYG (What You See is What You Get) content editor that allows you to easily create, edit, and format your blog content in a view similar to that of a word processor. Here are some sites that I believe provide useful information to get started with the WordPress visual editor:
 

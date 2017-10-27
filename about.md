@@ -13,5 +13,3 @@ Hike a mountain trail and you will come across it. The broken fragments of large
 We have an extensive background in individual and corporate web design for non-profit agencies, marketing firms, ranches, churches, and schools.
 
 With direct experience in such diverse fields as aviation, publishing and recreation, we work directly with clients to discover their needs and build around them. Our experience includes HTML, CSS, PHP, and WordPress.
-
-Facebook username {{ site.facebook_username }}
