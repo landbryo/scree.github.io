@@ -29,7 +29,7 @@ comments: true
 
 ### Extras
 
-Local config added for use with [Cloud9](https://c9.io/){:target='\_blank'}
+Local config added for use with <a href="https://c9.io/" target="_blank">Cloud9</a>
 
 I've found that there's some confusion out there about how to target a new windows with Jekyll. Here's an example of how I do it:
 
