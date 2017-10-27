@@ -26,7 +26,7 @@ If you are not sure your post adds to the conversation, think over what you want
 ### Keep it tidy
 
 Help make moderators’ lives easier by taking a moment to ensure that what you’re about to post is in the right place. That means:
-* don’t post off-topic comments or discussions: check the [Explore](https://disqus.com/home/explore/){:target="\_blank"} page to find the appropriate channel for your topic.
+* don’t post off-topic comments or discussions: check the [Explore](https://disqus.com/home/explore/){:target='\_blank'} page to find the appropriate channel for your topic.
 * don’t cross-post the same thing multiple times.
 * review any specific posting guidelines for the community: some communities such as a movies community may have specific rules regarding spoilers.
 * check if another active discussion on your topic has already been posted.
@@ -35,4 +35,4 @@ Help make moderators’ lives easier by taking a moment to ensure that what you�
 
 Moderators are at the forefront of combatting spam, mediating disputes and enforcing community guidelines and, so are you. 
 
-If you see an issue, [contact the moderators](/contact/) if possible or flag any comments for review. If you believe someone has violated the Basic Rules, report it to Disqus by [flagging the user's profile](https://help.disqus.com/customer/en/portal/articles/1518428-how-to-report-abuse){:target="\_blank"}.
+If you see an issue, [contact the moderators](/contact/) if possible or flag any comments for review. If you believe someone has violated the Basic Rules, report it to Disqus by [flagging the user's profile](https://help.disqus.com/customer/en/portal/articles/1518428-how-to-report-abuse){:target='\_blank'}.
