@@ -31,7 +31,7 @@ comments: true
 
 Local config added for use with [Cloud9](https://c9.io/)
 
-I've found that there's some confusion out there about how to target a new windows with Jekyll. Here's an example of how I do it:
+I've found that there's some confusion out there about how to target new windows with Jekyll. Here's an example of how I do it:
 
 ```markdown
 [Cloud9](https://c9.io/){:target='\_blank'}
