@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Helpful Bookmarks"
-date:   2017-10-27 12:00:00 -0700
+title:  "Helpful Bookmarks" (updated)
+date:   2018-7-6 12:00:00 -0700
 categories: blog
 comments: true
 ---
