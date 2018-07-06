@@ -51,3 +51,8 @@ Here's an ever growing list of site's I have in my bookmarks that I believe you 
 [Freedcamp](https://freedcamp.com/)  
 [Taiga](https://tree.taiga.io/)  
 [Asana](https://app.asana.com/)
+
+
+### Resources
+
+[How to Write A Good Blog Post](https://blogging.com/blog/how-to-write-good-blog-post/)
