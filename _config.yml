@@ -16,12 +16,15 @@
 title: Scree LLC.
 email: webmin@scree.it
 description: >- # this means to ignore newlines until "baseurl:"
-  We offer a wide array of services including development, website design, hosting, 
+  Offering a wide array of services including development, website design, hosting, 
   business email, training, and troubleshooting. Let us help you keep moving forward.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://scree.it" # the base hostname & protocol for your site, e.g. http://example.com
 # github_repo: jekyll # the GitHub repo name for your project
 github_username: landbryo
+
+#SEO
+seo_description: Scree LLC. | web development, design, hosting, training, and troubleshooting.
 
 # Optional social link, you can choose from the following options:
 # twitter (default), instagram, medium, or dribbble
