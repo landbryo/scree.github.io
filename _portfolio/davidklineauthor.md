@@ -1,5 +1,5 @@
 ---
-title: "Hike North Idaho"
+title: "David Kline - Author"
 permalink: /portfolio/david-kline-author
 excerpt: " "
 thumbnail: /img/portfolio/kline.jpg
