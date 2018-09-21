@@ -1,16 +1,8 @@
 ---
 layout: post
-title:  "Helpful Bookmarks"
+title:  "Helpful Bookmarks (updated)"
 date:   2018-07-06 12:00:00 -0700
 categories: blog
-comments: true
----
-
----
-layout: post
-title:  "Using the WordPress Visual Editor"
-date:   2017-2-26 12:58:21 -0700
-categories: blog wordpress
 comments: true
 ---
 
