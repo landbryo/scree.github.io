@@ -1,4 +1,4 @@
-.parce-cache
+.parcel-cache
 .idea
 node_modules
 dist
